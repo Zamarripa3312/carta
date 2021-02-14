@@ -1,0 +1,33 @@
+.titulo{
+    position:absolute;
+    top: 20px;
+    left: 500px;
+    z-index: 99;
+    margin: 0px;
+    padding: 0px;
+    font: oblique bold 120% cursive;
+}
+.imgcarta{
+    position:absolute;
+    top: 70px;
+    left: 360px;
+    z-index: 99;
+}
+.texto{
+    
+    font: oblique bold 120% cursive;
+    position:absolute;
+    top: 120px;
+    left: 500px;
+    z-index: 99;
+    width: 60vh;
+    height:50vh;
+    /* background: chartreuse; */
+}
+.boton{
+    font: oblique bold 120% cursive;
+    position:absolute;
+    top: 660px;
+    left: 690px;
+    z-index: 99;
+}
